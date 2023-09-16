@@ -1,0 +1,20 @@
+h1 {
+color: rgb(106, 135, 160);
+}
+
+.header {
+background-image: url(https://wallpapers.com/images/featured/cute-turtle-8ynngfxzpnijr59q.jpg);
+height: 200px;
+top: 50%;
+left: 50%;
+    color: rgb(43, 7, 7);
+    font-size: 24px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h2 {
+    text-align: center;
+    position: relative;
+}
