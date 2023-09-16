@@ -1,20 +1,41 @@
-h1 {
-color: rgb(106, 135, 160);
-}
 
 .header {
-background-image: url(https://wallpapers.com/images/featured/cute-turtle-8ynngfxzpnijr59q.jpg);
-height: 200px;
-top: 50%;
-left: 50%;
-    color: rgb(43, 7, 7);
-    font-size: 24px;
-    background-color: rgba(0, 0, 0, 0.7);
-    padding: 20px;
-    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1uqpxx7*_ga*MjI0MjkxODI2OC4xNjk0NzEyNzM4*_ga_3LRZM6TM9L*MTY5NDg3MDk1My44LjEuMTY5NDg3MjYwOS4zMi4wLjA.);
+    font-size: 50px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
 }
 
-h2 {
-    text-align: center;
-    position: relative;
+.brushes h3 {
+    background-color: mediumspringgreen;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.frames h3 {
+    background-color: lightcoral;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.paint h3 {
+    background-color: skyblue;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
 }
